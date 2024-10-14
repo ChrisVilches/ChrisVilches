@@ -25,7 +25,7 @@ My blog, where I write about software engineering and personal development: http
 ### Languages
 
 * Spanish (Native)
-* English (Fluent)
+* English (Fluent/Bilingual)
 * Japanese/日本語 (intermediate)
 
 <!-- TODO: Add main skills, etc -->
