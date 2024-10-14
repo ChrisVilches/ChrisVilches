@@ -13,12 +13,21 @@ My blog, where I write about software engineering and personal development: http
 * Tmux
 * i3
 
+### Hobbies & Interests
+
+* Personal development
+* Psychology
+* Philosophy
+* Japanese language learning
+* Going for walks
+* Health & Fitness (e.g. Keto diet)
+
 <!-- TODO: Add main skills, etc -->
 
 ### Currently Learning
 
-- Elixir
-- Rust
-- Go (concurrency patterns and advanced topics)
-- Algorithms
-- Machine Learning & Math
+* Elixir
+* Rust
+* Go (concurrency patterns and advanced topics)
+* Algorithms
+* Machine Learning & Math
