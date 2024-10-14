@@ -22,6 +22,12 @@ My blog, where I write about software engineering and personal development: http
 * Going for walks 🍀
 * Health & Fitness (e.g. Keto diet)
 
+### Languages
+
+* Spanish (Native)
+* English (Fluent - Can read/write/listen/communicate pretty much anything)
+* Japanese/日本語 (intermediate)
+
 <!-- TODO: Add main skills, etc -->
 
 ### Currently Learning
