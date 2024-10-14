@@ -1,6 +1,6 @@
 ## Christopher Vilches
 
-Software Engineer living and working in Japan (Tokyo area 🗼).
+Software Engineer living and working in Japan (Tokyo area 🗼). I started learning programming when I was 11 years old.
 
 Contact: felovilches@gmail.com
 
