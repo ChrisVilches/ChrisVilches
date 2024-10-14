@@ -1,6 +1,6 @@
 ## Christopher Vilches
 
-Software Engineer living and working in Japan (Tokyo area).
+Software Engineer living and working in Japan (Tokyo area 🗼).
 
 Contact: felovilches@gmail.com
 
@@ -19,7 +19,7 @@ My blog, where I write about software engineering and personal development: http
 * Psychology
 * Philosophy
 * Japanese language learning
-* Going for walks
+* Going for walks 🍀
 * Health & Fitness (e.g. Keto diet)
 
 <!-- TODO: Add main skills, etc -->
