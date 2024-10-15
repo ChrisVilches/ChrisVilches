@@ -18,7 +18,7 @@ My blog, where I write about software engineering and personal development: http
 * Personal development
 * Psychology
 * Philosophy
-* Japanese language learning
+* Learning languages
 * Going for walks 🍀
 * Health & Fitness (e.g. Keto diet)
 
