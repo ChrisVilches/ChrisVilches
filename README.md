@@ -37,3 +37,4 @@ My blog, where I write about software engineering and personal development: http
 * Go (concurrency patterns and advanced topics)
 * Algorithms
 * Machine Learning & Math
+* Accessibility, UX, etc (how to build better UIs)
