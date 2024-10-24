@@ -34,7 +34,7 @@ My blog, where I write about software engineering and personal development: http
 
 * Elixir
 * Rust
-* Go (concurrency patterns and advanced topics)
+* Go (advanced concepts)
 * Algorithms
 * Machine Learning & Math
 * Accessibility, UX, etc (how to build better UIs)
