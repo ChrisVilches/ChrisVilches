@@ -2,7 +2,7 @@
 
 Software Engineer living and working in Japan (Tokyo area 🗼). I started learning programming when I was 11 years old.
 
-Contact: felovilches@gmail.com
+Contact: chrisvilches1024@gmail.com
 
 My blog, where I write about software engineering and personal development: https://blog.chrisvilches.com/
 
