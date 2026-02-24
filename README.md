@@ -17,10 +17,10 @@ My blog, where I write about software engineering and personal development: http
 
 * Personal development
 * Psychology
+* Social events
+* Health & Fitness (e.g. Keto diet)
 * Philosophy
 * Learning languages
-* Going for walks 🍀
-* Health & Fitness (e.g. Keto diet)
 
 ### Languages
 
@@ -32,9 +32,7 @@ My blog, where I write about software engineering and personal development: http
 
 ### Currently Learning
 
-* Elixir
 * Rust
-* Go (advanced concepts)
+* Go
 * Algorithms
 * Machine Learning & Math
-* Accessibility, UX, etc (how to build better UIs)
