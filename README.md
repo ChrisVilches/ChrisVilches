@@ -21,18 +21,25 @@ My blog, where I write about software engineering and personal development: http
 * Health & Fitness (e.g. Keto diet)
 * Philosophy
 * Learning languages
+* Software Engineering:
+  - Backend Engineering
+  - Algorithms
+  - Databases
+  - Algorithms
+  - Performance/reliability, architecture, systems design
 
 ### Languages
 
 * Spanish (Native)
 * English (Fluent/Bilingual)
 * Japanese/日本語 (Intermediate)
+* Mandarin Chinese (Beginner)
 
 <!-- TODO: Add main skills, etc -->
 
 ### Currently Learning
 
-* Rust
-* Go
 * Algorithms
 * Machine Learning & Math
+* Networking
+* Electrical Engineering
