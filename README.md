@@ -25,7 +25,6 @@ My blog, where I write about software engineering and personal development: http
   - Backend Engineering
   - Algorithms
   - Databases
-  - Algorithms
   - Performance/reliability, architecture, systems design
 
 ### Languages
